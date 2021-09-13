@@ -6,7 +6,7 @@ This is the template for tasks. These repos are the starting points and instruct
 
 Add instructions here. This is github flavoured markdown so you can be as creative as you want. Add code snippets, images, gifs, checkboxes, anything you want.
 
-### Extract Components
+### 1. Extract Components
 
 - [ ] Look at the html in `index.html`
 - [ ] Move it into `App.js`
@@ -15,3 +15,14 @@ Add instructions here. This is github flavoured markdown so you can be as creati
 It should look like this:
 
 ![screenshot](https://tenor.com/xNjE.gif)
+
+### 2. Do the thing
+
+Explanation of the thing and why we're about to do it. Cool right?
+
+- [ ] Make a `store.js` file
+- [ ] Copy + Paste broken code:  
+  ```js
+  console.log("lol");
+  ```
+- [ ] Have an explanation ready for when Zainab interrogates you
